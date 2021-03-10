@@ -46,7 +46,7 @@ Additionally, we need 3 visualizations for the data which tell a story about the
 # Summary of Skills
 
 ## Case Study One 
-I used the python environment to perform my exploratory data analysis. I also used the Pandas, Seaborn, Matplotlib, xgboost, scikit-learn, lightgbm, Numpy packages for case study one.
+I used the python environment to perform my exploratory data analysis. I also used the Pandas, Seaborn, Matplotlib, xgboost, scikit-learn, lightgbm, Numpy packages for this case study.
 
 
 ## Case Study Two 
