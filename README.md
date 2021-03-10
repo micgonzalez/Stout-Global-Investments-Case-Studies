@@ -11,12 +11,12 @@ The following areas of this repository will discuss and explain the objectives o
 
 ## Case Study One Guidelines
 The dataset contains synthetic transactions and some transactions are marked as fraudulent. We would like you to perform the following using the language of your choice:
-'''
-    • Describe the dataset and any issues with it.
-    • Generate 3 visualizations using the data and write a brief description of your observations.
-    • Create a feature set and perform prediction of fraudulent transactions using at least 2 algorithms. Describe any data cleansing that must be performed.
-    • Visualize the test results and propose what could be done to improve results. Also describe assumptions you made and your approach.
-'''
+
+• Describe the dataset and any issues with it.\
+• Generate 3 visualizations using the data and write a brief description of your observations.\
+• Create a feature set and perform prediction of fraudulent transactions using at least 2 algorithms. Describe any data cleansing that must be performed.\
+• Visualize the test results and propose what could be done to improve results. Also describe assumptions you made and your approach.\
+
 
 
 ## Case Study Two Guidelines
