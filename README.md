@@ -87,7 +87,7 @@ Coming Soon
 # Conclusion
 
 ## Case Study One
-When I selected my two algorithms, it opened my eyes to the fact that the dataset was imbalanced. Starting with my first algorithm, XGBoost gave me many options with different class weights. The second algorithm, Random Forest was the best algorithm for testing this dataset. It was hard for me to improve the results. I had no assumptions for this project, and I would attempted to add another algorithm to my approach. 
+When I selected my two algorithms, it opened my eyes to the fact that the dataset was imbalanced. Starting with my first algorithm, XGBoost gave me many options with different class weights. The second algorithm, Random Forest was the best algorithm for testing this dataset. It was hard for me to improve the results. I had no assumptions for this project, and I would have attempted to add another algorithm to my approach. 
 
 ## Case Study Two
 Coming Soon
