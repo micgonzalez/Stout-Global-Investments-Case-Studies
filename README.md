@@ -56,7 +56,9 @@ Coming Soon
 # Preview
 
 ## Case Study One 
-Coming Soon
+![Preview of the Bar Plot created from this project.](https://github.com/micgonzalez/Stout-Global-Investments-Case-Studies/blob/main/case_study_one/bar_plot_of_diff_transactions.png)
+
+This bar plot was created from this project to show the different types of payments found in this dataset to the public.
 
 
 ## Case Study Two 
@@ -64,10 +66,10 @@ Coming Soon
 
 
 # Findings
-Coming Soon
+Each of these projects are based on the guidelines given to me by Sout Global Investments. The datasets were given to me through the Kaggle webiste and dropbox. I was given the task to clean, analyze and create visualitons from the dataset then give a brief description of my findings. I have included my findings in each folder of the case studies. I have also included the code book for case study one's dataset in the folder for case study one.
 
 ## Case Study One
-Coming Soon 
+I did notice when I plotted the count of fraud and non-fraud data that it was imbalanced. When I looked at the different types of payments, combined with fraud and flagged as fraud data. The results made it better to understand the data.
 
 ## Case Study Two
 Coming Soon
@@ -76,7 +78,7 @@ Coming Soon
 # Challenges
 
 ## Case Study One
-Coming Soon
+The dataset being imbalanced was the challenge for this project. It changed the scope of this project by having the alogrithms look for the count of false positive and false negative results. It was not only detecting for transactions that were flagged as fraud, but detecting the ratio of the false positive and negative results.   
 
 ## Case Study Two
 Coming Soon
@@ -85,7 +87,7 @@ Coming Soon
 # Conclusion
 
 ## Case Study One
-Coming Soon
+When I selected my two algorithms, it opened my eyes to the fact that the dataset was imbalanced. Starting with my first algorithm, XGBoost gave me many options with different class weights. The second algorithm, Random Forest was the best algorithm for testing this dataset. It was hard for me to improve the results. I had no assumptions for this project, and I would attempted to add another algorithm to my approach. 
 
 ## Case Study Two
 Coming Soon
