@@ -50,7 +50,7 @@ I used the python environment to perform my exploratory data analysis. I also us
 
 
 ## Case Study Two 
-Coming Soon
+I used the python environment to perform my exploratory data analysis and creating the requested data visualizatons. I also used the Pandas, Matplotlib and Numpy packages for this case study.
 
 
 # Preview
@@ -62,7 +62,7 @@ This bar plot was created from this project to show the different types of payme
 
 
 ## Case Study Two 
-Coming Soon
+![Preview of the Bar Plot created from this project.](https://github.com/micgonzalez/Stout-Global-Investments-Case-Studies/blob/main/case_study_two/case_two_bar_chart_of_exist_customers.png)
 
 
 # Findings
@@ -72,7 +72,7 @@ Each of these projects are based on the guidelines given to me by Sout Global In
 I did notice when I plotted the count of fraud and non-fraud data that it was imbalanced. When I looked at the different types of payments, combined with fraud and flagged as fraud data. The results made it better to understand the data.
 
 ## Case Study Two
-Coming Soon
+After looking for the needed features, I was able to find out useful information about the customer’s revenue growth and the metrics of customer loyalty. 
 
 
 # Challenges
@@ -81,7 +81,7 @@ Coming Soon
 The dataset being imbalanced was the challenge for this project. It changed the scope of this project by having the alogrithms look for the count of false positive and false negative results. It was not only detecting for transactions that were flagged as fraud, but detecting the ratio of the false positive and negative results.   
 
 ## Case Study Two
-Coming Soon
+I did notice when I looked at the provided dataset that it was limited to four columns. I really had to use my creativity to find the wanted features from this dataset.
 
 
 # Conclusion
@@ -90,4 +90,4 @@ Coming Soon
 When I selected my two algorithms, it opened my eyes to the fact that the dataset was imbalanced. Starting with my first algorithm, XGBoost gave me many options with different class weights. The second algorithm, Random Forest was the best algorithm for testing this dataset. It was hard for me to improve the results. I had no assumptions for this project, and I would have attempted to add another algorithm to my approach. 
 
 ## Case Study Two
-Coming Soon
+After creating the three data visualizations, I found out that in the years of 2015 and 2017. There were over 36% of orders that were less than $10. I also found out that new customers did not have much revenue gains compared to existing customers. 
