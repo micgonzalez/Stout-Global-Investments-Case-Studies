@@ -64,6 +64,7 @@ This bar plot was created from this project to show the different types of payme
 ## Case Study Two 
 ![Preview of the Bar Plot created from this project.](https://github.com/micgonzalez/Stout-Global-Investments-Case-Studies/blob/main/case_study_two/case_two_bar_chart_of_exist_customers.png)
 
+This chart was created from this project to show the public my results.
 
 # Findings
 Each of these projects are based on the guidelines given to me by Sout Global Investments. The datasets were given to me through the Kaggle webiste and dropbox. I was given the task to clean, analyze and create visualitons from the dataset then give a brief description of my findings. I have included my findings in each folder of the case studies. I have also included the code book for case study one's dataset in the folder for case study one.
