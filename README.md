@@ -56,13 +56,15 @@ I used the python environment to perform my exploratory data analysis and creati
 # Preview
 
 ## Case Study One 
-![Preview of the Bar Plot created from this project.](https://github.com/micgonzalez/Stout-Global-Investments-Case-Studies/blob/main/case_study_one/bar_plot_of_diff_transactions.png)
+| ![Preview of the Bar Plot created from this project.](https://github.com/micgonzalez/Stout-Global-Investments-Case-Studies/blob/main/case_study_one/bar_plot_of_diff_transactions.png) |
+|-|
 
 This bar plot was created from this project to show the different types of payments found in this dataset to the public.
 
 
 ## Case Study Two 
-![Preview of the Bar Plot created from this project.](https://github.com/micgonzalez/Stout-Global-Investments-Case-Studies/blob/main/case_study_two/case_two_bar_chart_of_exist_customers.png)
+| ![Preview of the Bar Plot created from this project.](https://github.com/micgonzalez/Stout-Global-Investments-Case-Studies/blob/main/case_study_two/case_two_bar_chart_of_exist_customers.png) |
+|-|
 
 This chart was created from this project to show the public my results.
 
